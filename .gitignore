@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# asdf
+.tool-versions
+
 # next.js
 /.next/
 /out/
